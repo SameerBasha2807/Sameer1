@@ -1,0 +1,47 @@
+1)
+
+we can comment a code using the symbol #
+types of comments are singleline ,multiline and docstring comment
+2)
+variables in python are those that are used to assign values
+variables can be declared using letter or _
+eg : a=int,b=float
+3)
+in python data type is converted  using the type of the data
+eg:
+a = 10
+here typ(a)=int
+a = float(a)
+after using the float data type infront of a the data type of a is changed from int to float
+4)
+in ubantu to write a python script usethe command gedit filename.py
+and to run the code use the command python3 filename.py
+5)
+my_list = [1,2,3,4,5]
+for i in my_list:
+   print(i)
+l(my_list[1:3])
+print(l)
+6)
+a numberwhichhas both real number and imaginary is called complex number
+in python it is represented using j
+7)
+age = 25
+data type is int
+8)
+price = 9.99
+data type is float
+9)
+name = 'A Sameer Basha'
+print(name)
+using print the value can be printed
+10)
+str = "Hello,World!"
+str([7:12])
+11)
+is_student = True 
+if(is_student == True):
+  print("Student")
+else:
+print("Not")
+
